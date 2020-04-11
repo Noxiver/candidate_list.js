@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-npm install
+npm install semantic-ui-vue —save
 ```
 
 ### Compiles and hot-reloads for development
